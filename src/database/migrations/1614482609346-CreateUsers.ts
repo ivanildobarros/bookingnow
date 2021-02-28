@@ -27,7 +27,6 @@ export default class CreateUsers1614482609346 implements MigrationInterface {
                     {
                         name: 'birthdate',
                         type: 'date',
-                        isUnique: true,
   
                       },
                     {
